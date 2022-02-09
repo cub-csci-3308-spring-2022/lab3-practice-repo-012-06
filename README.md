@@ -1,2 +1,2 @@
-Project Team Members
-Nick Butler
+Project Team Memebers: Lincoln D'Epagnier, Ricardo Gonzalez, Nick Butler
+
