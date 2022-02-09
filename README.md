@@ -1,2 +1,1 @@
-Project Team Memebers: Griffin Kiesecker
-
+Project Team Members: Lincoln D'Epagnier, Ricardo Gonzalez, Nick Butler, Griffin Kiesecker
