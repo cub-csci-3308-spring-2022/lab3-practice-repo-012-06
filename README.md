@@ -1,1 +1,2 @@
-Project Team Memebers: Lincoln D'Epagnier
+Project Team Memebers: Lincoln D'Epagnier, Ricardo Gonzalez
+
