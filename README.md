@@ -1,1 +1,2 @@
-Project Team Members: Lincoln D'Epagnier, Ricardo Gonzalez, Nick Butler, Griffin Kiesecker, Sawyer Bass
+Project Team Members: Lincoln D'Epagnier, Ricardo Gonzalez, Nick Butler, Griffin Kiesecker
+I made a change
